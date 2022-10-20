@@ -5,12 +5,12 @@ alert()
 }
 // Add your code here
 
-let myName = 'Paul';
+let myName = 'Aline';
 
 // Don't edit the code below here!
 
 section.innerHTML = ' ';
-const para = document.createElement('p');
+const para = document.createElement('a');
 para.textContent = myName;
 section.appendChild(para);
     
